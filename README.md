@@ -1,5 +1,6 @@
 # bank-management-system
-A basic banking interface
+A Python-based CLI banking application demonstrating account creation, deposit, withdrawal, and balance tracking using file-based persistence.
+A  banking interface
 OUTPUT=
 Includes the following-
 Press Enter to continue...
