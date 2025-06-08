@@ -1,5 +1,6 @@
 # bank-management-system
-basic bank management system 
+A basic banking interface
+OUTPUT=
 Includes the following-
 Press Enter to continue...
 	MAIN MENU
